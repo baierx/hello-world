@@ -13,5 +13,5 @@ data = normal(0, 1, (10,2))
 ```
 
 
+<img src="https://render.githubusercontent.com/render/math?math=\frac{dX}{dt}=a\cdotX-b\cdotY">
 
-<img src="https://render.githubusercontent.com/render/math?math=\frac{dX}{dt} = a\cdot X - b \cdot Y">
